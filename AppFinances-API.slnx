@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AppFinances-API.IntegrationTests/IntegrationTests.csproj" />
+  <Project Path="AppFinances-API/AppFinances-API.csproj" />
+  <Project Path="AppFinancesClassLibrary.Tests/AppFinancesClassLibrary.Tests.csproj" />
+  <Project Path="AppFinancesClassLibrary/AppFinancesClassLibrary.csproj" Id="0f53f7e2-9ccc-46d3-9068-ba4a97c2e652" />
+</Solution>
